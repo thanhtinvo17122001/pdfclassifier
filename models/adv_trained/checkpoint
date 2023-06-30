@@ -1,0 +1,2 @@
+model_checkpoint_path: "adv_del_twocls.ckpt"
+all_model_checkpoint_paths: "adv_del_twocls.ckpt"
